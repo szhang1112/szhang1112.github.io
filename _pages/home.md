@@ -19,7 +19,7 @@ University of Florida<br>
 <b>Office</b>&#58; 2004 Mowry Rd<br>
 <b>Phone</b>&#58; (352) 273-5468<br>
 <b>Email</b>&#58; sai dot zhang at ufl dot edu<br>
-[ <a href="{{ site.url }}{{ site.baseurl }}/CV/cv.pdf">CV</a>, <a href="https://twitter.com/saizhang0">Twitter</a>, <a href="https://www.linkedin.com/in/sai-zhang-8b757817a/">LinkedIn</a> ]
+[ <a href="{{ site.url }}{{ site.baseurl }}/CV/cv.pdf">CV</a>, <a href="https://twitter.com/saizhang0">X</a>, <a href="https://www.linkedin.com/in/sai-zhang-8b757817a/">LinkedIn</a> ]
 </ul>
 </div>
 
