@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div class="col-sm-12 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/szhang.jpg" class="img-responsive" width="27%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/headshot_2 copy.jpeg" class="img-responsive" width="27%" style="float: left" />
 <ul>
 <h4><b>Sai Zhang, Ph.D.</b></h4>
 Assistant Professor<br>
